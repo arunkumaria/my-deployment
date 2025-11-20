@@ -1,0 +1,3 @@
+com/own/testing_springboot/TestingSpringbootApplication.class
+com/own/testing_springboot/controller/WelcomeMvcController.class
+com/own/testing_springboot/service/WelcomeService.class
